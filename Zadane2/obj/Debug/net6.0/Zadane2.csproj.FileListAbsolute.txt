@@ -1,0 +1,15 @@
+C:\Users\Mary\Desktop\Seminar3_Massivi\Zadane2\obj\Debug\net6.0\Zadane2.csproj.AssemblyReference.cache
+C:\Users\Mary\Desktop\Seminar3_Massivi\Zadane2\obj\Debug\net6.0\Zadane2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mary\Desktop\Seminar3_Massivi\Zadane2\obj\Debug\net6.0\Zadane2.AssemblyInfoInputs.cache
+C:\Users\Mary\Desktop\Seminar3_Massivi\Zadane2\obj\Debug\net6.0\Zadane2.AssemblyInfo.cs
+C:\Users\Mary\Desktop\Seminar3_Massivi\Zadane2\obj\Debug\net6.0\Zadane2.csproj.CoreCompileInputs.cache
+C:\Users\Mary\Desktop\Seminar3_Massivi\Zadane2\bin\Debug\net6.0\Zadane2.exe
+C:\Users\Mary\Desktop\Seminar3_Massivi\Zadane2\bin\Debug\net6.0\Zadane2.deps.json
+C:\Users\Mary\Desktop\Seminar3_Massivi\Zadane2\bin\Debug\net6.0\Zadane2.runtimeconfig.json
+C:\Users\Mary\Desktop\Seminar3_Massivi\Zadane2\bin\Debug\net6.0\Zadane2.dll
+C:\Users\Mary\Desktop\Seminar3_Massivi\Zadane2\bin\Debug\net6.0\Zadane2.pdb
+C:\Users\Mary\Desktop\Seminar3_Massivi\Zadane2\obj\Debug\net6.0\Zadane2.dll
+C:\Users\Mary\Desktop\Seminar3_Massivi\Zadane2\obj\Debug\net6.0\refint\Zadane2.dll
+C:\Users\Mary\Desktop\Seminar3_Massivi\Zadane2\obj\Debug\net6.0\Zadane2.pdb
+C:\Users\Mary\Desktop\Seminar3_Massivi\Zadane2\obj\Debug\net6.0\Zadane2.genruntimeconfig.cache
+C:\Users\Mary\Desktop\Seminar3_Massivi\Zadane2\obj\Debug\net6.0\ref\Zadane2.dll
